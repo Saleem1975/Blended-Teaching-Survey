@@ -55,7 +55,7 @@ conduct two hypothesis tests on the survey data:
     -   *Nonparametric Check:* A Kruskal--Wallis test supported this
         finding (*H* = 13.72, *p* = 0.001).
 
-**Summary of Insights:**\
+**Summary of Insights:**
 - Overall satisfaction was lower than neutral.
 - Comfort with technology plays a role: students who reported lower
 comfort actually gave higher satisfaction ratings than those with medium
