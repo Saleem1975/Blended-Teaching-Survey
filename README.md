@@ -37,7 +37,7 @@ conduct two hypothesis tests on the survey data:
 1.  **One-sample t-test (Q9 vs Neutral = 3)**
     -   *Result:* The average satisfaction rating was **2.51** (SD =
         1.38), which is **significantly below the neutral value of 3**
-        (*t*(234) = −5.49, *p* = 0.001 for the one-sided test of μ \<
+        (*t*(234) = −5.49, *p*< 0.0001 for the one-sided test of μ \<
         3).
     -   *Interpretation:* Students, on average, reported
         lower-than-neutral satisfaction with the blended teaching
